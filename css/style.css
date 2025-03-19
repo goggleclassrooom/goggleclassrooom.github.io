@@ -1,5 +1,5 @@
 * {
-  font-family: "Josefin";
+  font-family: "Josefin Sans";
 }
 
 html {
@@ -33,6 +33,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   background: var(--background);
+  text-shadow: 4px 4px 4px #aaa;
 }
 
 @keyframes breathing {
